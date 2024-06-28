@@ -7,7 +7,7 @@ tags: Data Analysis
 ---
 
 
-### Exploratory Data Analysis on Netflix TV Shows and Movies with Pandas and NumPy**
+### Exploratory Data Analysis on Netflix TV Shows and Movies with Pandas and NumPy
 
 The goal of this data analysis was to explore the Netflix dataset and find interesting insights about the shows and movies on the platform.
 
