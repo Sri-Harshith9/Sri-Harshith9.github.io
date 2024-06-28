@@ -7,7 +7,7 @@ tags: Data Analysis
 ---
 
 
-## Analyzing the 2023 Spotify Top 50 songs, exploring factors like popularity, artists, and genres.
+### Analyzing the 2023 Spotify Top 50 songs, exploring factors like popularity, artists, and genres.
 
 As a music enthusiast, I recently dove into an exploratory data analysis (EDA) of Spotify's 2023 Top 50 most streamed songs. Spotify, the dominant music streaming platform, curates this prestigious list, offering a glimpse into the global listening trends and preferences of music fans worldwide.
 
